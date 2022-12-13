@@ -1,1 +1,1 @@
-# zomzto-landingpage
+# zomato-landingpage
